@@ -9,7 +9,7 @@ Testing will be done inside a devContainer using VSCode to avoid platform specif
 
 -   Docker - https://www.docker.com/
 -   Visual Studio Code Dev Containers extension - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
-
+- Chrome extension - https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd
 ## Set up
 
 Create a `json` file in:
